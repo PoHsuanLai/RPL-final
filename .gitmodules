@@ -1,0 +1,6 @@
+[submodule "habitat-lab"]
+	path = habitat-lab
+	url = https://github.com/facebookresearch/habitat-lab.git
+[submodule "sound-spaces"]
+	path = sound-spaces
+	url = https://github.com/facebookresearch/sound-spaces.git
