@@ -1,0 +1,18 @@
+[project]
+name = "audio-visual-imagination"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "librosa",
+    "matplotlib",
+    "numpy<2.0",
+    "numpy-quaternion>=2024.0.12",
+    "scipy",
+    "soundfile",
+    "tensorboard",
+    "torch",
+    "torchaudio",
+    "torchvision",
+]
